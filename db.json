@@ -1,19 +1,34 @@
 {
-
  "cars" : [
    {
-     "id":6,
-     "model":"Renault Megane",
-     "type":"Kombi",
-     "year":"2011",
-     "color":"black",
-     "cost":600,
-     "isFullyDamaged":false,
-     "clientFirstName":"Zbigniew",
-     "clientSurname":"Kluska",
-     "power":136,
+     "id": 6,
+     "model": "Renault Megane",
+     "type": "Kombi",
+     "year": "2011",
+     "color": "black",
+     "cost": 600,
+     "isFullyDamaged": false,
+     "clientFirstName": "Zbigniew",
+     "clientSurname":" Kluska",
+     "power": 136,
      "plate":"GPU4400",
      "deliveryDate":"2017-04-22T17:16:39.259Z",
-     "deadline":"2017-07-22T17:16:39.260Z"},{"id":7,"model":"Ford Fiesta","type":"Coupe","year":"1999","color":"blue","cost":2000,"isFullyDamaged":false,"clientFirstName":"Anna","clientSurname":"Gryc","power":130,"plate":"GBA033","deliveryDate":"2017-04-30T17:16:39.259Z","deadline":"2017-06-30T17:16:39.260Z"},{"id":8,"model":"Ford Focus","type":"Kombi","year":"2004","color":"red","cost":1750,"isFullyDamaged":true,"clientFirstName":"Monika","clientSurname":"Bach","power":170,"plate":"KKP977","deliveryDate":"2017-03-30T17:16:39.259Z","deadline":"2017-05-30T17:16:39.260Z"}]
-
+     "deadline":"2017-07-22T17:16:39.260Z"
+   },
+   {
+     "id":7,
+     "model":"Ford Fiesta",
+     "type":"Coupe",
+     "year":"1999",
+     "color":"blue",
+     "cost":2000,
+     "isFullyDamaged":false,
+     "clientFirstName": "Anna",
+     "clientSurname":"Gryc",
+     "power":130,
+     "plate":"GBA033",
+     "deliveryDate":"2017-04-30T17:16:39.259Z",
+     "deadline":"2017-06-30T17:16:39.260Z"},
+    {"id":8,"model":"Ford Focus","type":"Kombi","year":"2004","color":"red","cost":1750,"isFullyDamaged":true,"clientFirstName":"Monika","clientSurname":"Bach","power":170,"plate":"KKP977","deliveryDate":"2017-03-30T17:16:39.259Z","deadline":"2017-05-30T17:16:39.260Z"}
+ ]
 }
